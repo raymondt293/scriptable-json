@@ -1,0 +1,11 @@
+{
+  "messages": {
+    "2024-04-01": "Today's message 1",
+    "2024-04-02": "Today's message 2",
+    "2024-04-03": "Today's message 3",
+    "2024-04-04": "Today's message 4",
+  },
+  "images": {
+    "2024-04-01": https://hellokitty.fandom.com/wiki/Cinnamoroll?file=Sanrio_Characters_Cinnamoroll_Image005.png
+  }
+}
